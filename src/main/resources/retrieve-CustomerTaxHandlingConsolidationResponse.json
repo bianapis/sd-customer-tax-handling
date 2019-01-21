@@ -1,0 +1,15 @@
+{
+  "reportRecord" : {},
+  "reportFormatTemplate" : {},
+  "reportInstanceReference" : "RIR18635",
+  "reportType" : "Type 1",
+  "reportPeriod" : "[10-12-2018, 31-12-2022]",
+  "customerTaxHandlingConsolidationTaskReference" : "CTHR1256",
+  "productInstanceReference" : "PIR45236",
+  "reportOptionsSelectionCriteria" : "Criteria 1",
+  "customerTaxHandlingArrangementReference" : "CTHR8654",
+  "customerReference" : "CR966325",
+  "customerProductServiceProfile" : "Profile 1",
+  "customerProductServiceTypeUsage" : "Usage 1",
+  "customerTaxHandlingConsolidationTaskRecord" : {}
+}

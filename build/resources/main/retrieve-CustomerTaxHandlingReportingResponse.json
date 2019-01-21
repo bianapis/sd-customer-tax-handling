@@ -1,0 +1,11 @@
+{
+  "customerTaxReportingSchedule" : "0 15 15 ? * *",
+  "customerTaxReportType" : "Type 1",
+  "customerTaxReportPeriod" : "[10-12-2018, 31-12-2022]",
+  "customerTaxHandlingReportingTaskRecord" : {},
+  "customerTaxHandlingArrangementReference" : "CTHR8654",
+  "customerTaxReportRecord" : {},
+  "customerTaxReportInstanceReference" : "CTRI7320",
+  "customerTaxHandlingReportingTaskReference" : "CTHR5931",
+  "customerTaxHandlingArrangementRecord" : {}
+}

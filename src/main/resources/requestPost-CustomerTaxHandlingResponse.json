@@ -1,0 +1,9 @@
+{
+  "customerTaxReportingSchedule" : "0 15 15 ? * *",
+  "customerTaxHandlingArrangementReference" : "CTHR8654",
+  "customerReference" : "CR963225",
+  "applicableTaxReportingRegulationInterpretation" : "Next tax 445",
+  "applicableTaxReportingRegulationReference" : "ATRR8863",
+  "customerTaxHandlingArrangementRecord" : {},
+  "taxJurisdictionReference" : "TJR8563"
+}

@@ -1,0 +1,10 @@
+{
+  "customerTaxReportingSchedule" : "0 15 15 ? * *",
+  "customerTaxHandlingArrangementReference" : "CTHR8654",
+  "customerTaxHandlingAnalysisTaskReference" : "CTHA3589",
+  "applicableTaxReportingRegulationInterpretation" : "Interpretation 1",
+  "customerTaxHandlingAnalysisTaskRecord" : {},
+  "applicableTaxReportingRegulationReference" : "ATRR9217",
+  "customerTaxHandlingConsolidationTaskRecord" : {},
+  "customerTaxHandlingArrangementRecord" : {}
+}
